@@ -2,4 +2,4 @@
 Command handler for go-twitch-irc.
 
 ### Ideas
-- [] Custom context 
+- [ ] Custom context 
